@@ -46,6 +46,6 @@
 	"devDependencies": {
 	},
 	"dependencies": {
-
+		"LiveScript": "1.2.x"
 	}
 }
