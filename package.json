@@ -1,0 +1,51 @@
+{
+	"name": "tester",
+	"version": "0.0.1",
+	"keywords": [
+		"test",
+		"testing",
+		"tester"
+	],
+
+	"description": "tester",
+	"homepage": "https://ymeine.github.io/tester",
+
+	"contributors": [
+		{
+			"name": "Yannick Meine",
+			"email": "yannick.meine@gmail.com",
+			"url": "http://ymeine.github.io"
+		}
+	],
+	"licenses": [
+		"MIT"
+	],
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ymeine/tester"
+	},
+	"bugs": {
+		"url": "https://github.com/ymeine/tester/issues"
+	},
+
+
+
+	"main": "src/index",
+	"scripts": {
+	},
+
+	"preferGlobal": false,
+	"private": false,
+
+
+	"engineStrict": false,
+	"engines": {
+		"node": "*"
+	},
+	"devDependencies": {
+	},
+	"dependencies": {
+
+	}
+}

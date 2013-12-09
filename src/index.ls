@@ -1,0 +1,7 @@
+require! {
+	'logger'
+}
+
+export {
+	logger
+}
